@@ -2,3 +2,5 @@
 hello world repository
 Hi, this is me lol
 Just followed the GitHub Guides
+
+Great programmer -Xuexian Xie
